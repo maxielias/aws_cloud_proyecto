@@ -1,0 +1,3 @@
+[submodule "host-yolov5-on-sagemaker-endpoint"]
+	path = host-yolov5-on-sagemaker-endpoint
+	url = https://github.com/aws-samples/host-yolov5-on-sagemaker-endpoint.git
